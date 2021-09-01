@@ -65,7 +65,7 @@ git checkout v0.18.0
 make install
 
 # verify the installation
-wasmd version
+version wasmd
 ```
 
 :::info
